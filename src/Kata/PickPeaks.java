@@ -13,8 +13,7 @@ public class PickPeaks
 
     public static Map<String, List<Integer>> getPeaks(int[] arr)
     {
-        List<Integer>   pos     = new LinkedList<>();
-
+        List<Integer> pos = new LinkedList<>();
         for (int i=1; i<arr.length-1; i++)
             if(arr[i-1]<arr[i])
                 if (arr[i+1]<arr[i])
