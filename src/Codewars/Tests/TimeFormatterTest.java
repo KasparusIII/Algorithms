@@ -1,6 +1,6 @@
-package Kata.Tests;
+package Codewars.Tests;
 
-import Kata.TimeFormatter;
+import Codewars.TimeFormatter;
 import org.junit.Assert;
 import org.junit.Test;
 

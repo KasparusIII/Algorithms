@@ -1,6 +1,6 @@
-package Kata.Tests;
+package Codewars.Tests;
 
-import Kata.Order;
+import Codewars.Order;
 import org.junit.Assert;
 import org.junit.Test;
 

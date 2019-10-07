@@ -1,6 +1,6 @@
-package Kata.Tests;
+package Codewars.Tests;
 
-import Kata.Keypad;
+import Codewars.Keypad;
 import org.junit.Assert;
 import org.junit.Test;
 

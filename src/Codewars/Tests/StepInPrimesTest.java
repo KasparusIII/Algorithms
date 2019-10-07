@@ -1,6 +1,6 @@
-package Kata.Tests;
+package Codewars.Tests;
 
-import Kata.StepInPrimes;
+import Codewars.StepInPrimes;
 import org.junit.Assert;
 import org.junit.Test;
 

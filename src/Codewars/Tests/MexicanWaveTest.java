@@ -1,6 +1,6 @@
-package Kata.Tests;
+package Codewars.Tests;
 
-import Kata.MexicanWave;
+import Codewars.MexicanWave;
 import org.junit.Assert;
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package Kata;
+package Codewars;
 
 import java.util.stream.IntStream;
 

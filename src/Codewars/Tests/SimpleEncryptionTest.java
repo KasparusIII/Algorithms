@@ -1,6 +1,6 @@
-package Kata.Tests;
+package Codewars.Tests;
 
-import Kata.SimpleEncryption;
+import Codewars.SimpleEncryption;
 import org.junit.Assert;
 import org.junit.Test;
 

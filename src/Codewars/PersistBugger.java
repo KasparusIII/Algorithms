@@ -1,4 +1,4 @@
-package Kata;
+package Codewars;
 
 import org.junit.Assert;
 import org.junit.Test;
